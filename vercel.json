@@ -1,0 +1,5 @@
+{
+  "env": {
+    "CHROME_BIN": "/vercel/path/to/chrome"
+  }
+}

@@ -1,0 +1,32 @@
+{
+    "theme_color": "#35f6e7",
+    "background_color": "#181818",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/",
+    "name": "SCR",
+    "short_name": "SCR",
+    "description": "\u00a1Protege tu hogar con la revolucionaria aplicaci\u00f3n que pone el control en tus manos! Con nuestra innovadora aplicaci\u00f3n, podr\u00e1s cerrar y abrir tus electrov\u00e1lvulas desde cualquier lugar. \u00a1Prep\u00e1rate para emergencias s\u00edsmicas y cat\u00e1strofes naturales con una interfaz f\u00e1cil de usar, notificaciones en tiempo real y automatizaci\u00f3n inteligente! Tu seguridad nunca ha sido tan accesible. Descarga ahora y toma el control con Ghidora. \u00a1La tranquilidad est\u00e1 a solo un toque de distancia!",
+    "icons": [
+        {
+            "src": "/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/icon-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "/icon-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
