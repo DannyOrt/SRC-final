@@ -1,10 +1,4 @@
-// requerda que se tiene que dar un numero de electrovalvulas este tambien estara en la raspberry
-// y es la sala en la que se conectara el socket para poder abrir y cerrar las electrovalvulas
-// hay que hacer que recuerde el numero de electrovalvulas que se le dio para que no se
-// tenga que estar poniendo cada vez que se entre a la pagina de inicio
-// se guardara en el local storage
-// hay que crear un banner para que se guarde por primera vez el numero de electrovalvulas
-
+//Se le da un número de electroválvulas que de igual forma se encuentra en el raspberry
 import {ValvesModal} from "@/components/ValvesModal";
 import {toast} from "react-toastify";
 import {useEffect, useState} from "react";
